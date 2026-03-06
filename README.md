@@ -1,24 +1,51 @@
-# 💫 About Me:
-## 👋 Hi, I'm Ahmad Affandi Sikumbang!<br><br>I'm a 4th-semester university student and a passionate **Fullstack Developer** with a strong interest in both front-end and back-end development. I love building efficient, scalable, and modern applications using up-to-date technologies.<br><br>### 📫 Get in Touch:<br>- Email: ahmadaffandy008@gmail.com<br><br>- GitHub: https://github.com/ahmad-affandi08<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Ahmad%20Affandi%20Sikumbang&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=ffffff)
 
+<div align="center">
+    <a href="https://wakatime.com"><img src="https://wakatime.com/badge/user/00000000-0000-0000-0000-000000000000.svg" alt="Coding Time" /></a>
+    <a style="display: none;" href="https://pageview.vercel.app/?github_user=ahmadaffandi"><img src="https://pageview.vercel.app/?github_user=ahmadaffandi"></a>
+    <a href="https://ahmadaffandi.com"><img alt="Website" src="https://img.shields.io/website?down_message=Offline&label=ahmadaffandi.com&style=for-the-badge&up_message=Online&url=https://ahmadaffandi.com&color=blue"></a>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@a.fandyskb) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@ikanrebus) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadaffandy008@gmail.com) 
+<br />
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmad-affandi08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ahmad-affandi08&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-affandi08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🚀 About Me
+- 👨🏻‍💻 Passionate developer exploring the latest technologies and writing clean, efficient code.
+- 👀 Highly interested in Full-Stack Web Development, Modern Architecture, and Mobile Apps.
+- 🌱 Currently deep diving into DevOps Engineering and Cloud Deployments.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmad-affandi08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 📊 GitHub Analytics
+<div align="center">
+    <a href="https://github.com/ahmadaffandi">
+        <img src="https://github-readme-stats.vercel.app/api?username=ahmadaffandi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" width="48%" />
+    </a>
+    <a href="https://github.com/ahmadaffandi">
+        <img src="https://streak-stats.demolab.com?user=ahmadaffandi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+    </a>
+</div>
+
+<br />
+
+### 🛠️ Tech Stack & Tools
+<p align="center">
+  <a href="https://github.com/ahmadaffandi">
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,laravel,mysql,linux,docker,kubernetes,git,vscode,figma&perline=6" />
+  </a>
+</p>
+
+<br />
+
+### 📬 Let's Connect
+<p align="center">
+    <a href="https://ahmadaffandi.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=GoogleChrome&logoColor=white" /></a>
+    <a href="mailto:contact@ahmadaffandi.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/ahmadaffandi"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://instagram.com/ahmad.affandi"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://twitter.com/ahmad_affandi"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ahmad-affandi08&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"><b>— Ahmad Affandi Sikumbang —</b></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&section=footer&height=100" width="100%"/>

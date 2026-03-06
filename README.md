@@ -58,13 +58,6 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmad-affandi08&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00DFD8&icon_color=00DFD8&text_color=c9d1d9" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-affandi08&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00DFD8&text_color=c9d1d9" width="49%" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=ahmad-affandi08&theme=react&hide_border=true&background=0D1117&ring=00DFD8&fire=00DFD8&currStreakLabel=00DFD8" width="100%" />
 </div>
 

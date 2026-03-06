@@ -1,51 +1,76 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Ahmad%20Affandi%20Sikumbang&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=ffffff)
+<h1 align="center">Hi there, I'm Ahmad Affandi Sikumbang 👋</h1>
 
-<div align="center">
-    <a href="https://wakatime.com"><img src="https://wakatime.com/badge/user/00000000-0000-0000-0000-000000000000.svg" alt="Coding Time" /></a>
-    <a style="display: none;" href="https://pageview.vercel.app/?github_user=ahmadaffandi"><img src="https://pageview.vercel.app/?github_user=ahmadaffandi"></a>
-    <a href="https://ahmadaffandi.com"><img alt="Website" src="https://img.shields.io/website?down_message=Offline&label=ahmadaffandi.com&style=for-the-badge&up_message=Online&url=https://ahmadaffandi.com&color=blue"></a>
-</div>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00DFD8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;DevOps+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+</h3>
 
-<br />
-
-### 🚀 About Me
-- 👨🏻‍💻 Passionate developer exploring the latest technologies and writing clean, efficient code.
-- 👀 Highly interested in Full-Stack Web Development, Modern Architecture, and Mobile Apps.
-- 🌱 Currently deep diving into DevOps Engineering and Cloud Deployments.
-
-<br />
-
-### 📊 GitHub Analytics
-<div align="center">
-    <a href="https://github.com/ahmadaffandi">
-        <img src="https://github-readme-stats.vercel.app/api?username=ahmadaffandi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" width="48%" />
-    </a>
-    <a href="https://github.com/ahmadaffandi">
-        <img src="https://streak-stats.demolab.com?user=ahmadaffandi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-    </a>
-</div>
-
-<br />
-
-### 🛠️ Tech Stack & Tools
 <p align="center">
+  <a href="https://ahmadaffandi.com">
+    <img src="https://img.shields.io/badge/Portfolio-%230D1117.svg?style=for-the-badge&logo=firefox&logoColor=#00DFD8" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/ahmadaffandi">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://github.com/ahmadaffandi">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,laravel,mysql,linux,docker,kubernetes,git,vscode,figma&perline=6" />
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:contact@ahmadaffandi.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<br />
+<div align="center">
+    <img src="https://profile-counter.glitch.me/ahmadaffandi/count.svg" alt="Profile Views" />
+</div>
 
-### 📬 Let's Connect
-<p align="center">
-    <a href="https://ahmadaffandi.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=GoogleChrome&logoColor=white" /></a>
-    <a href="mailto:contact@ahmadaffandi.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/ahmadaffandi"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://instagram.com/ahmad.affandi"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://twitter.com/ahmad_affandi"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=white" /></a>
+---
+
+### 👨‍💻 About Me
+
+* 🔭 Currently working on highly scalable **Web Applications & Cloud Architectures**
+* 🌱 Deep diving into **DevOps, Kubernetes, and Advanced System Design**
+* 💡 Passionate about creating elegant solutions to complex problems
+* ⚡ Fun fact: I write my best code at 2 AM with a strong cup of coffee ☕
+* 📫 How to reach me: **[contact@ahmadaffandi.com](mailto:contact@ahmadaffandi.com)**
+
+---
+
+### 🚀 Tech Stack & Tools
+
+**Frontend Development** <p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,vite,redux,materialui&theme=dark" />
+</p>
+
+**Backend Development & Databases** <p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,go,mysql,postgres,mongodb,redis,sqlite&theme=dark" />
+</p>
+
+**DevOps, Cloud & Infrastructure** <p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,docker,kubernetes,aws,gcp,nginx,githubactions,cloudflare&theme=dark" />
+</p>
+
+**Tools & Workflow** <p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim,postman,figma,notion,stackoverflow&theme=dark" />
 </p>
 
 ---
 
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadaffandi&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00DFD8&icon_color=00DFD8&text_color=c9d1d9" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadaffandi&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00DFD8&text_color=c9d1d9" width="49%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmadaffandi&theme=react&hide_border=true&background=0D1117&ring=00DFD8&fire=00DFD8&currStreakLabel=00DFD8" width="100%" />
+</div>
+
+---
+
 <p align="center"><b>— Ahmad Affandi Sikumbang —</b></p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&section=footer&height=100" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DFD8,100:5921d2&section=footer&height=80" width="100%"/>
+</p>
